@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/CommonConsumerTestData" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/MongoDBLibrary" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/TimeDecode" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/UeauCommon" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/aes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/aper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/flowdesc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/fsm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/http2_util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/http_wrapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/idgenerator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/logger_conf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/logger_util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/milenage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/nas" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/ngap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/openapi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/path_util" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/pfcp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/timer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/tlv" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lib/util_3gpp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/amf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ausf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/n3iwf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/nrf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/nssf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/pcf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/smf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/udm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/udr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/ue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/upf" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/webconsole" vcs="Git" />
+  </component>
+</project>
