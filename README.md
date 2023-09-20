@@ -1,4 +1,4 @@
-## Description
+## Non-3GPP-access
 
 This UE can be used to test the authentication of the Open5GS core via the N3IWF. The authentication mechanisms 5G-AKA and EAP-TLS are supported.
 The UE is forked from [my5G-non3GPP-access](https://github.com/my5G/my5G-non3GPP-access).
