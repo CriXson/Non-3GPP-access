@@ -38,7 +38,7 @@ cd ue_tests
 ./TestTLS100.sh
 ``` 
 
-For more detailed manual, please reference [Wiki](https://github.com/my5G/my5G-non3GPP-access/wiki).
+For more detailed manual, please reference the my5G-non3GPP-access [Wiki](https://github.com/my5G/my5G-non3GPP-access/wiki).
 
 ## License
 
